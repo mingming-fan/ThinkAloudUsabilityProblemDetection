@@ -1,0 +1,984 @@
+=== File Name: p1-science-t1 ===
+  -start: 5.792804
+  -end: 8.788273
+  -script: um, I don't know you call this, like, the different links here.
+
+  -start: 58.427728
+  -end: 60.357191
+  -script: I don't see one for grade eight. okay.
+
+  -start: 62.056145
+  -end: 67.625581
+  -script: but the dates are only until March. Okay, that's not gonna work.
+
+  -start: 116.198761
+  -end: 123.2182
+  -script: um, no, it does not tell you about any programs, um,
+
+  -start: 154.755506
+  -end: 168.556934
+  -script: under all results, um, that's not the right grade,  this is not the right grade, this is not either, okay, this is the only one.
+
+=== File Name: p1-science-t2 ===
+  -start: 28.229388
+  -end: 30.476897
+  -script: that's probably not right.
+
+  -start: 45.741779
+  -end: 48.473538
+  -script: okay, no, we don't want to do that at home.
+
+  -start: 65.257755
+  -end: 68.139665
+  -script: oh, they are all videos. okay, that's also not what we want.
+
+  -start: 73.245875
+  -end: 81.792982
+  -script: um, I don't think this is what we want. These are online.
+
+  -start: 126.500181
+  -end: 141.464474
+  -script: I'm not sure, but it's free. I don't think this is for kids. okay.
+
+  -start: 152.178804
+  -end: 153.691948
+  -script: I don't know what is that
+
+  -start: 169.214302
+  -end: 172.071957
+  -script: okay. there is nothing else. okay, I don't think it's that.
+
+  -start: 176.191791
+  -end: 177.314622
+  -script: I don't know what that is.
+
+  -start: 177.314622
+  -end: 184.382206
+  -script: oh, that's not us. that's not what we want.
+
+  -start: 208.090126
+  -end: 210.911076
+  -script: okay. but there is like no professional's work.
+
+  -start: 213.001802
+  -end: 223.683968
+  -script: um, okay, "educational programs", maybe that's what we want, or "the channel." No, not what we want.
+
+  -start: 229.539363
+  -end: 236.252176
+  -script: um, no, not school program, not virtual.
+
+  -start: 237.295282
+  -end: 238.12699
+  -script: I don't know what that is.
+
+  -start: 244.616387
+  -end: 252.464681
+  -script: okay, this looks like school stars, but that's not how...
+
+  -start: 267.51687
+  -end: 274.247939
+  -script: um, I'm not sure.
+
+  -start: 275.912032
+  -end: 285.075397
+  -script: that's good. um, I don't think that's right.
+
+=== File Name: p1-science-t3 ===
+  -start: 53.435251
+  -end: 56.641
+  -script: oh, there is not very many links. okay.
+
+  -start: 80.910075
+  -end: 82.453899
+  -script: no, that's not what we want.
+
+  -start: 87.27223
+  -end: 95.530008
+  -script: oh, that just tells you what it is, not the modals.
+
+  -start: 95.530008
+  -end: 103.16144
+  -script: but this one is the museum telescope. that's not an early model.
+
+  -start: 119.53693
+  -end: 138.555273
+  -script: okay. um, there is a few different links. don't know any of these are what I'm looking for.
+
+  -start: 223.053857
+  -end: 235.868524
+  -script: let's...it doesn't help. okay. I don't see.
+
+=== File Name: p2-science-t1 ===
+  -start: 97.409453
+  -end: 101.865905
+  -script: But it doesn't say five to nine it says five to six and nine.
+
+  -start: 120.409706
+  -end: 128.266072
+  -script: It says that the grade levels is applicable to five to six and nine but not eight which is specific on the task.
+
+  -start: 157.615931
+  -end: 169.657958
+  -script: There is one for eighth grade students but it's not in April at all.
+
+  -start: 184.405448
+  -end: 192.458938
+  -script: but it's still not a specific thing and there's no I guess there is a search menu.
+
+=== File Name: p2-science-t2 ===
+  -start: 41.855608
+  -end: 43.87367
+  -script: There's not a lot of dense text
+
+  -start: 63.463876
+  -end: 73.495269
+  -script: Um, so I'm actually not going to click that and I go back.
+
+  -start: 93.886972
+  -end: 104.170064
+  -script: It's not obvious
+
+  -start: 104.170064
+  -end: 110.331464
+  -script: like so if I was actually in this hypothetical situation of late trying to find something for an 11 year old kid it's not the easiest to navigate I guess.
+
+  -start: 110.331464
+  -end: 115.801698
+  -script: It doesn't tell you specifically what's going to happen in the long term.
+
+  -start: 124.542117
+  -end: 133.540636
+  -script: It's definitely not as easy to navigate as the History Museum website.
+
+=== File Name: p2-science-t3 ===
+  -start: 78.662803
+  -end: 85.69384
+  -script: There's no instruction manuals just pictures of old telescopes.
+
+  -start: 94.469706
+  -end: 97.661721
+  -script: and I don't think we're very far away from finding what we're looking for.
+
+  -start: 115.812866
+  -end: 121.921939
+  -script: That didn't bring up anything
+
+=== File Name: p3-science-t1 ===
+  -start: 53.11303
+  -end: 57.879537
+  -script: So that's not in April so, that one is in March.
+
+  -start: 60.424296
+  -end: 64.495012
+  -script: Well, I don't think there's anything for her.
+
+=== File Name: p3-science-t2 ===
+  -start: 23.281716
+  -end: 26.80119
+  -script: Interactive presentation I suspicious  it's not summer camps.
+
+  -start: 50.497181
+  -end: 52.926847
+  -script: I have no clue, OK.
+
+  -start: 110.731575
+  -end: 115.193648
+  -script: What are they, will it be able to have, no as what's the presentation.
+
+  -start: 142.843342
+  -end: 148.351211
+  -script: Um, no this is [??].
+
+=== File Name: p3-science-t3 ===
+  -start: 35.46356
+  -end: 39.459546
+  -script: Um...I don't think this is that.
+
+  -start: 148.917541
+  -end: 155.596592
+  -script: So there's like, this is not a, so this is Sundials, not that, that's wrong.
+
+  -start: 205.569381
+  -end: 208.277312
+  -script: Well, I can go back here if I don't find anything else.
+
+  -start: 239.529911
+  -end: 243.96029
+  -script: Um, looks cool. But that's not a...
+
+  -start: 243.96029
+  -end: 253.43584
+  -script: Um, actually it has no clue these things are.
+
+  -start: 259.009527
+  -end: 264.458943
+  -script: I don't still, hey, wow this is build a sundial.
+
+  -start: 289.818401
+  -end: 294.514265
+  -script: I don't wanna...
+
+  -start: 311.598128
+  -end: 316.14285
+  -script: No, I don't think that is a site there.
+
+  -start: 369.752578
+  -end: 374.696637
+  -script: Who is little telescope though, it's supposed to be, I don't know.
+
+  -start: 374.696637
+  -end: 377.576373
+  -script: I don't know what find the last thing.
+
+  -start: 387.551849
+  -end: 397.666667
+  -script: I'm just not sure, I have actually no clue.
+
+=== File Name: p4-science-t1 ===
+  -start: 23.620902
+  -end: 32.899221
+  -script: April doesn't say date
+
+  -start: 57.614636
+  -end: 60.809138
+  -script: Grades 5 and 6, that's not it.
+
+=== File Name: p4-science-t2 ===
+  -start: 25.751169
+  -end: 29.756631
+  -script: I don't see. I don't think that's what I need.
+
+  -start: 37.697742
+  -end: 43.007995
+  -script: I also don't think that's what I need.
+
+  -start: 62.736467
+  -end: 65.759873
+  -script: I don't see what I need.
+
+  -start: 84.958037
+  -end: 94.704341
+  -script: Google, not Google, search up presentation.
+
+=== File Name: p4-science-t3 ===
+  -start: 44.861326
+  -end: 51.563458
+  -script: Ha, sound, that's not really what I'm looking for.
+
+  -start: 75.334241
+  -end: 79.996981
+  -script: Background information doesn't look like what I'm looking for
+
+  -start: 107.469704
+  -end: 110.038792
+  -script: It's not in part one maybe it's in part two.
+
+  -start: 128.157438
+  -end: 139.048526
+  -script: I don't think that's what I'm looking for but I now know that the original early telescope was called the Zenith telescope so I noticed that earlier.
+
+  -start: 156.685812
+  -end: 159.212841
+  -script: I don't see instructions. I see a photo of it.
+
+  -start: 196.038828
+  -end: 200.229284
+  -script: I don't see any thing linking to the instruction.
+
+  -start: 204.714064
+  -end: 211.600228
+  -script: 15 refracting telescopes, I don't see instructions, they just like fun facts.
+
+  -start: 257.185562
+  -end: 261.98814
+  -script: But I don't see any instructions for a telescope.
+
+  -start: 288.876228
+  -end: 291.265532
+  -script: It's not what I'm looking for.
+
+  -start: 347.013314
+  -end: 358.428065
+  -script: I don't think, I see another one that has the same similar image.
+
+  -start: 369.366205
+  -end: 370.944892
+  -script: I don't think that's what I need
+
+  -start: 377.572267
+  -end: 380.38226
+  -script: I also don't think that's what I need so.
+
+=== File Name: p5-science-t1 ===
+  -start: 69.019191
+  -end: 73.203086
+  -script: Uhh I don't think there is any available programs then.
+
+=== File Name: p5-science-t2 ===
+  -start: 39.456374
+  -end: 45.597894
+  -script: But I don't know if they have something. Oh they do have an interactive section.
+
+  -start: 67.114463
+  -end: 73.799582
+  -script: Um I don't know if this would be appropriate for an 11 year old but they do have different talks for them.
+
+=== File Name: p5-science-t3 ===
+  -start: 43.273476
+  -end: 47.066467
+  -script: because I don't know where I can find these instructions.
+
+  -start: 65.314778
+  -end: 68.987752
+  -script: Umm I don't think I'll find anything in this part
+
+  -start: 91.169656
+  -end: 95.848372
+  -script: And might have pictures there. I don't know.
+
+  -start: 96.766995
+  -end: 102.948944
+  -script: Umm I'm going to close the last tab since I don't really need that picture.
+
+  -start: 118.711026
+  -end: 125.156145
+  -script: Ok this doesn't really give me - what's it asking for? - um photo instructions.
+
+  -start: 158.926116
+  -end: 163.334147
+  -script: Ok so I don't think this will be helpful.
+
+  -start: 199.214044
+  -end: 208.808944
+  -script: Ok well I found an image of an old telescope but I don't see the instructions of the - oh I think this might be it.
+
+=== File Name: p6-science-t1 ===
+=== File Name: p6-science-t2 ===
+  -start: 79.505952
+  -end: 87.220395
+  -script: I'm not sure if this is, oh, yeah, this is only for school programs.
+
+  -start: 107.917362
+  -end: 117.381169
+  -script: I think these are also for schools, but I'm not too sure.
+
+  -start: 125.076547
+  -end: 131.948732
+  -script: oh, I think this is a course for a month, so you don't wanna do.
+
+  -start: 151.72827
+  -end: 155.818799
+  -script: I don't know if I see anything that meets the requirements.
+
+  -start: 187.610909
+  -end: 198.998098
+  -script: oh, it's um, not really too sure what the activities are.
+
+  -start: 221.943626
+  -end: 237.748119
+  -script: very confused by this task. I don't really know how to search for, for an interactive presentation.
+
+=== File Name: p6-science-t3 ===
+  -start: 16.733432
+  -end: 34.73087
+  -script: um, the summary is pretty good, but don't know if I see anything that will tell me about the instructions.
+
+  -start: 52.301967
+  -end: 57.792441
+  -script: there is a video, but no picture.
+
+  -start: 76.817046
+  -end: 84.868069
+  -script: um, I'm gonna skim through these again to make sure I'm not missing anything.
+
+  -start: 92.764557
+  -end: 100.79098
+  -script: so there are pictures, but no instructions.
+
+  -start: 141.831682
+  -end: 152.979454
+  -script: and there is one for zenith telescope, which is not what I want.
+
+  -start: 160.339989
+  -end: 162.540821
+  -script: just also not what I want.
+
+  -start: 162.540821
+  -end: 177.156456
+  -script: I think if they go to this site, age, um, this is not a telescope.
+
+  -start: 201.565868
+  -end: 217.597789
+  -script: I don't really see instructions. um.
+
+  -start: 228.927999
+  -end: 241.636181
+  -script: and I already clicked on this one I think. No, I didn't. But this is another video, which I don't want.
+
+  -start: 244.272997
+  -end: 252.438593
+  -script: just content. um, I don't think it's making an impact.
+
+  -start: 262.478026
+  -end: 263.271891
+  -script: I don't think it's
+
+  -start: 306.251171
+  -end: 320.763225
+  -script: which I don't know if there is supposed to be words on the pictures.
+
+=== File Name: p7-science-t1 ===
+  -start: 33.052739
+  -end: 43.599666
+  -script: For April programs, then no ones I can find that are happening in April.
+
+=== File Name: p7-science-t2 ===
+  -start: 153.693791
+  -end: 160.191674
+  -script: Em, it doesn't seem there is any event.
+
+  -start: 227.275818
+  -end: 233.322899
+  -script: But I'm not sure if there's age specific...
+
+=== File Name: p7-science-t3 ===
+  -start: 44.247772
+  -end: 51.675823
+  -script: So I'm looking at the doesn't seem to give me any photos and instructions.
+
+=== File Name: p8-science-t1 ===
+  -start: 65.615755
+  -end: 77.667783
+  -script: Looks awesome and doesn't say any money constraints so let's go with, it costs 8 dollars.
+
+  -start: 84.769832
+  -end: 90.394067
+  -script: The spies of quantum which is available from January and March but not in April.
+
+  -start: 146.02646
+  -end: 159.133033
+  -script: So Quebec's elementary cycle 1 is... grade 1 so I think it's not appropriate for grade 4 students.
+
+=== File Name: p8-science-t2 ===
+=== File Name: p8-science-t3 ===
+  -start: 210.382117
+  -end: 215.450433
+  -script: Yeah I don't think this is an instruction manual.
+
+  -start: 251.710171
+  -end: 256.669797
+  -script: Yeah I don't see anything it that.
+
+  -start: 266.103946
+  -end: 272.062114
+  -script: Which is not what I'm searching for, it's something about railway tracks.
+
+  -start: 382.258673
+  -end: 398.985341
+  -script: And then the artifact markings gives me some odd, ok. It gives me what is engraved on the telescope but doesn't give me any instructions.
+
+  -start: 422.94208
+  -end: 430.632759
+  -script: Okay. I don't find anything useful here.
+
+  -start: 474.277391
+  -end: 477.416382
+  -script: I don't find any.
+
+  -start: 480.482127
+  -end: 484.845258
+  -script: Ok then it says file not found.
+
+  -start: 484.845258
+  -end: 489.944867
+  -script: Conservation page, file not found.
+
+  -start: 489.944867
+  -end: 496.220088
+  -script: It's giving a file not found.
+
+  -start: 508.353944
+  -end: 511.841005
+  -script: We don't
+
+  -start: 547.461826
+  -end: 557.394571
+  -script: I don't know. So it gives me about different topics to select from.
+
+  -start: 621.040464
+  -end: 623.908537
+  -script: I don't find useful in it.
+
+=== File Name: p1-remote ===
+  -start: 3.99176
+  -end: 6.919943
+  -script: , cause I never see a one like this, I think.
+
+  -start: 6.919943
+  -end: 9.414264
+  -script: but this is not my ...
+
+  -start: 25.782656
+  -end: 28.371436
+  -script: okay, I don't know what that's for, so I'm gonna leave it there for now.
+
+  -start: 35.156542
+  -end: 37.727517
+  -script: I think that's fine. I don't think we need that.
+
+  -start: 49.864439
+  -end: 55.588383
+  -script: wow, okay. I don't know what these are. okay.
+
+  -start: 65.567275
+  -end: 77.650293
+  -script: Brand code search. um, codes for brands of devices. It's not as easy as the auto code search, but it can be faster. okay.
+
+  -start: 89.422302
+  -end: 104.27881
+  -script: um, it's not as easy, but it's potentially the fastest. and manual code search lets you manually  go through all the codes for the device you're trying to control.
+
+  -start: 130.050869
+  -end: 131.515058
+  -script: okay, I don't what that means.
+
+  -start: 158.522271
+  -end: 168.15481
+  -script: um, I don't really know what I'm looking for on the sheet.
+
+  -start: 182.298774
+  -end: 188.926816
+  -script: but I don't know where all these are made, okay.
+
+  -start: 232.516748
+  -end: 242.620102
+  -script: um, okay, I don't understand what that tips section means.
+
+  -start: 304.141329
+  -end: 312.648668
+  -script: never mind. the device we want to control is the DVD player. okay.
+
+  -start: 323.750459
+  -end: 330.321623
+  -script: turns off what? That is not grammatically correct.
+
+  -start: 388.760815
+  -end: 389.86602
+  -script: I don't what that means.
+
+  -start: 408.437917
+  -end: 409.625772
+  -script: I don't know if this is a good sign.
+
+  -start: 414.492875
+  -end: 422.074197
+  -script: I don't know how long I'm supposed to wait.
+
+  -start: 482.05775
+  -end: 488.993005
+  -script: um, no, the device did not turn on, so we'll press it again.
+
+  -start: 564.370476
+  -end: 567.019301
+  -script: Okay, I don't know what that means.
+
+  -start: 572.561822
+  -end: 574.830477
+  -script: I think it's OK. I don't think it's been two minutes.
+
+  -start: 593.683112
+  -end: 606.328807
+  -script: nope, slow, oh, no, it's not working.
+
+  -start: 610.092843
+  -end: 619.887651
+  -script: no, the video is still going. okay. oops. I don't know what I just did. pressed pause. oh, I think it's just finished.
+
+  -start: 619.887651
+  -end: 627.294977
+  -script: yes, it's replying again. But it's still not working.
+
+  -start: 660.856764
+  -end: 673.323083
+  -script: I think, so I think I did this wrong. Now I'm not sure how I should fix it. um.
+
+  -start: 698.88424
+  -end: 701.812432
+  -script: No, it's not working.
+
+  -start: 740.880612
+  -end: 765.696
+  -script: um, it's not turning off. Why why are you like this? um, okay, I don't know how to turn this remote off.
+
+=== File Name: p2-remote ===
+  -start: 79.009344
+  -end: 83.327258
+  -script: I don't really know what that means yet especially I was just opening this up like what are you talking about codes.
+
+  -start: 83.327258
+  -end: 89.008888
+  -script: I just don't understand why programming a remote has to sound so technical.
+
+  -start: 93.853651
+  -end: 97.956082
+  -script: It's not as easy as the auto code search, but it can be faster.
+
+  -start: 117.765874
+  -end: 120.762899
+  -script: It's not as easy as the other methods, but it's potentially the fastest method.
+
+  -start: 286.205296
+  -end: 291.992861
+  -script: It didn't stay on
+
+  -start: 313.96908
+  -end: 316.276961
+  -script: the device did not turn off
+
+  -start: 428.347091
+  -end: 431.594232
+  -script: other than the TV button which I tried the first time and that didn't do anything.
+
+  -start: 443.919797
+  -end: 445.753421
+  -script: It didn't do that.
+
+  -start: 452.853528
+  -end: 455.731732
+  -script: Like I don't know
+
+  -start: 526.494915
+  -end: 528.438381
+  -script: It's not doing anything pretty confused at this point.
+
+  -start: 528.438381
+  -end: 534.528555
+  -script: Yeah I don't know what other options to try.
+
+  -start: 541.148798
+  -end: 544.53715
+  -script: But I don't really know why and I don't really know what that's doing.
+
+  -start: 556.97051
+  -end: 560.633949
+  -script: if that doesn't work out probably just give up and call the company or something.
+
+=== File Name: p3-remote ===
+  -start: 54.920012
+  -end: 56.600923
+  -script: No? It's not done? OK.
+
+  -start: 101.530809
+  -end: 107.157669
+  -script: OK, was it turn off ? I don't understand.
+
+  -start: 123.795182
+  -end: 126.165482
+  -script: Oh, no did not turn off.
+
+  -start: 130.7057
+  -end: 132.092255
+  -script: I don't know where to be.
+
+  -start: 180.313371
+  -end: 182.433179
+  -script: It's not turning off.
+
+  -start: 215.02951
+  -end: 223.315786
+  -script: Um...sigh...This is why I never do this at home.
+
+  -start: 257.165503
+  -end: 260.246798
+  -script: No, this is not working.
+
+  -start: 265.28697
+  -end: 270.31244
+  -script: No, my device is not turn off.
+
+  -start: 302.544041
+  -end: 305.490675
+  -script: I don't know the power key is being anything?
+
+  -start: 385.080587
+  -end: 392.247526
+  -script: One, two that's even [?] there, it didn't go through...Oh
+
+  -start: 416.625268
+  -end: 429.151913
+  -script: Well...I don't know what to do.
+
+  -start: 438.811189
+  -end: 442.800027
+  -script: OK, I won't try it one more, not work.
+
+  -start: 466.008081
+  -end: 470.478441
+  -script: CRA, I don't even know the number of this I guess.
+
+  -start: 476.838338
+  -end: 480.989692
+  -script: I don't see any ICA, OK.
+
+  -start: 487.437387
+  -end: 491.068792
+  -script: I don't understand.
+
+  -start: 507.432379
+  -end: 508.452178
+  -script: Does not turn off.
+
+  -start: 527.556307
+  -end: 532.00095
+  -script: It's one of them, I don't know what number to do.
+
+  -start: 558.416912
+  -end: 572.157943
+  -script: [murmuring]? I think I...did I program the device? I'm not sure.
+
+  -start: 572.157943
+  -end: 578.196087
+  -script: Oh I thought I did, I'm not sure
+
+=== File Name: p4-remote ===
+  -start: 10.136777
+  -end: 12.55391
+  -script: And I don't think that's what I need.
+
+  -start: 27.395102
+  -end: 34.466663
+  -script: So I don't see a set up about it but I know the layout.
+
+  -start: 69.699988
+  -end: 77.248204
+  -script: Assuming I don't have access to the Internet right now I can't do manual code or direct code entries.
+
+  -start: 115.008474
+  -end: 117.405481
+  -script: So I don't have to worry about the TV
+
+  -start: 222.343001
+  -end: 228.648098
+  -script: and I don't see Samsung.
+
+  -start: 228.648098
+  -end: 233.377993
+  -script: Also I don't think I can do
+
+  -start: 233.377993
+  -end: 242.584695
+  -script: I see Samsung as a TV but not as a DVD player.
+
+  -start: 332.793785
+  -end: 335.277769
+  -script: and I didn't do it.
+
+=== File Name: p5-remote ===
+  -start: 16.322646
+  -end: 60.090111
+  -script: So step 2 is to program my remote. To use this universal remote with your home entertainment system, first you need to program it to control your devices. There are four ways you can  program the universal remote to operate your devices. Number 1 is the auto code search which goes automatically through all the codes for the device you're trying to control. It's the easiest method but it can sometimes take longer than some of the other methods. Number 2 is the brand code search. Searches through the codes for the select brands of devices. It's not as easy as the autocorrect, but it can be faster. And number 3 is the direct code entry. Lets you enter a code from the accompanying code list from your brand of device. It's not as easy as the other methods but it's potentially the fastest. And the last one is manual code search. Lets you manually go through all the codes for the device you're trying to control.
+
+  -start: 102.980105
+  -end: 104.626604
+  -script: But we don't have a VCR.
+
+  -start: 223.52394
+  -end: 226.618832
+  -script: I don't see it turning on though.
+
+  -start: 262.674314
+  -end: 267.449713
+  -script: So my device didn't turn off.
+
+  -start: 276.084191
+  -end: 281.311358
+  -script: um but it's not off. So I can just skip this part
+
+  -start: 288.244489
+  -end: 295.898078
+  -script: You're done, you're done programming this device, press reverse again. Um if it didn't turn on but it did.
+
+=== File Name: p6-remote ===
+  -start: 19.901211
+  -end: 25.629252
+  -script: I don't know what these mean.
+
+  -start: 37.725686
+  -end: 39.415527
+  -script: which I don't mind.
+
+  -start: 46.728712
+  -end: 49.843786
+  -script: cause it's not just one big blur so.
+
+  -start: 49.843786
+  -end: 60.116176
+  -script: has a tip section, which is good for people don't know how to use the remote or how to program it.
+
+  -start: 67.062754
+  -end: 75.360913
+  -script: so it's just saying that, not really too clear what this is saying.
+
+  -start: 82.963439
+  -end: 95.094199
+  -script: OK, so I have to see whether I have a, not sure understand this.
+
+  -start: 99.950659
+  -end: 105.881502
+  -script: how do I know if I have a PVR or VCR, or does that not matter.
+
+  -start: 198.198299
+  -end: 201.234545
+  -script: so I'm not really sure what to do.
+
+  -start: 243.702548
+  -end: 250.24317
+  -script: okay, my device didn't turn off, so I'm gonna press Play again and wait five seconds.
+
+  -start: 347.382713
+  -end: 354.076665
+  -script: but I don't think I should have to read that, cause it's not bold or anything. so it doesn't seem important.
+
+  -start: 367.892841
+  -end: 380.135674
+  -script: what don't know how to? so it is turning.
+
+  -start: 388.276241
+  -end: 389.874325
+  -script: but I don't know if.
+
+  -start: 419.932347
+  -end: 425.02645
+  -script: I don't think that, I think I'm aiming it correctly.
+
+  -start: 464.170975
+  -end: 469.578131
+  -script: which it's not doing.
+
+  -start: 480.194544
+  -end: 486.075584
+  -script: and it's not turning off.
+
+  -start: 486.075584
+  -end: 494.723158
+  -script: I feel like it's programmed correctly, but I don't know if I'm.
+
+  -start: 507.61607
+  -end: 512.587656
+  -script: not really too sure what that's for.
+
+  -start: 522.498192
+  -end: 525.613705
+  -script: oh, now it's not turning off the device. Okay.
+
+  -start: 556.600854
+  -end: 563.480756
+  -script: is that power button still lit up? so I don't know what that's about.
+
+  -start: 625.278077
+  -end: 638.349516
+  -script: If I tried this three times now, the power button doesn't turn off for some reason. It turned off first time I tried it.
+
+  -start: 638.349516
+  -end: 650.26667
+  -script: but maybe it saves some code in the thing that is working, but it's not, I don't really know.
+
+  -start: 691.51671
+  -end: 694.516633
+  -script: don't know what that's for.
+
+  -start: 711.921545
+  -end: 720.368983
+  -script: It tells me to do the exactly the same thing, but I don't think the power button gonna turn off anytime soon.
+
+  -start: 726.045209
+  -end: 729.928967
+  -script: The power key is not turning off.
+
+  -start: 742.06239
+  -end: 749.872868
+  -script: so this doesn't work then not sure how to deal with this.
+
+  -start: 845.151595
+  -end: 849.643959
+  -script: but it's not working, um.
+
+  -start: 860.425855
+  -end: 862.119301
+  -script: it's not working again.
+
+  -start: 875.267465
+  -end: 885.309567
+  -script: um, there is one section says problems the power doesn't light when you press the key.
+
+  -start: 905.640204
+  -end: 911.422901
+  -script: which I don't need.
+
+  -start: 911.422901
+  -end: 924.976226
+  -script: It doesn't tell me what's happening if the power key just stays on for a long time.
+
+  -start: 924.976226
+  -end: 937.386667
+  -script: so I don't know what to do.
+
+=== File Name: p7-remote ===
+  -start: 37.215462
+  -end: 39.81449
+  -script: It's not as easy as other methods.
+
+  -start: 141.200154
+  -end: 152.798033
+  -script: The device did not turn...
+
+  -start: 224.660444
+  -end: 231.758869
+  -script: It's not turning on.
+
+=== File Name: p8-remote ===
+  -start: 32.9279486
+  -end: 65.416102
+  -script: First one is auto code. Goes automatically through all the codes for the device you're to control. It's the easiest method, but it can sometimes take longer than some of the other programming methods. Brand code search through the codes for select brands, select brands of devices. It's not as easy as auto code search but it can be faster. Direct code lets you enter a code from the accompanying code list for your brand of device. Let's you code, enter a code from the accompanying code list.
+
+  -start: 104.715248
+  -end: 115.788904
+  -script: Lets you enter a, yup. So direct code entry lets you enter a code from the accompanying code list for your brand of device. It's not easy as, okay.
+
+  -start: 178.07626
+  -end: 179.797269
+  -script: Nope, I guess this is not the thing.
+
+  -start: 185.372405
+  -end: 188.389873
+  -script: I guess that's, I guess we don't have the code.
+
+  -start: 188.389873
+  -end: 190.81604
+  -script: So direct code is not possible.
+
+  -start: 276.232169
+  -end: 283.060684
+  -script: Which doesn't give me any, and it's pretty lendy.
+
+  -start: 307.034507
+  -end: 308.978506
+  -script: That doesn't make sense.
+
+  -start: 386.011112
+  -end: 388.199047
+  -script: I don't think that's working.
+
+  -start: 522.22285
+  -end: 524.598646
+  -script: While it didn't turn off.
+
+  -start: 543.223629
+  -end: 545.494388
+  -script: And it doesn't work.
+
+  -start: 651.511408
+  -end: 663.821321
+  -script: But then the, but then the little diagram shows you have to hold on to DVD VCR which doesn't make any sense.
+

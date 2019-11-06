@@ -1,0 +1,1939 @@
+=== File Name: p1-science-t1 ===
+  -repetition group 1:
+  -- start: 13.483932
+  -- end: 17.738631
+  -- script: okay. let's go to education program because she is a teacher.
+
+  -- start: 111.682342
+  -- end: 116.198761
+  -- script: okay. it tells you how many teachers you need. okay.
+
+  -repetition group 2:
+  -- start: 31.561035
+  -- end: 36.560625
+  -- script: Now it has a list of educational programs, um.
+
+  -- start: 116.198761
+  -- end: 123.2182
+  -- script: um, no, it does not tell you about any programs, um,
+
+  -repetition group 3:
+  -- start: 77.253302
+  -- end: 79.034341
+  -- script: it says more from the section
+
+  -- start: 123.2182
+  -- end: 126.349994
+  -- script: more from the sections.
+
+  -repetition group 4:
+  -- start: 126.349994
+  -- end: 127.175457
+  -- script: let's click that. okay.
+
+  -- start: 168.556934
+  -- end: 173.673912
+  -- script: let's click this and see.
+
+=== File Name: p1-science-t2 ===
+  -repetition group 1:
+  -- start: 16.094522
+  -- end: 19.380143
+  -- script: um, let's look at "what to see and do"
+
+  -- start: 48.473538
+  -- end: 52.983649
+  -- script: um, let's go back to "what to see and do"
+
+  -repetition group 2:
+  -- start: 318.232478
+  -- end: 325.278022
+  -- script: I think it may have been "curiosity on stage"
+
+  -- start: 19.380143
+  -- end: 21.631718
+  -- script: "curiosity on stage"
+
+  -repetition group 3:
+  -- start: 252.464681
+  -- end: 254.682606
+  -- script: collections and research
+
+  -- start: 26.218994
+  -- end: 28.229388
+  -- script: um, "collections and research"
+
+  -repetition group 4:
+  -- start: 63.649638
+  -- end: 65.257755
+  -- script: scroll.
+
+  -- start: 316.472211
+  -- end: 318.232478
+  -- script: scroll down
+
+  -repetition group 5:
+  -- start: 242.10988
+  -- end: 244.616387
+  -- script: okay. back up here.
+
+  -- start: 257.437815
+  -- end: 259.557733
+  -- script: okay, let's "what's on"
+
+  -- start: 164.7537
+  -- end: 167.719168
+  -- script: okay. maybe.
+
+  -- start: 300.994513
+  -- end: 303.920655
+  -- script: maybe there...okay we already clicked that.
+
+  -- start: 303.920655
+  -- end: 305.751515
+  -- script: okay, "what to see and do"
+
+  -- start: 311.46604
+  -- end: 312.815926
+  -- script: okay. start clicking that.
+
+  -- start: 184.382206
+  -- end: 186.099329
+  -- script: okay, back up here.
+
+  -- start: 326.388523
+  -- end: 331.690667
+  -- script: is that it? Okay.
+
+  -- start: 81.792982
+  -- end: 87.277509
+  -- script: okay, back to "what to see and do"
+
+  -repetition group 6:
+  -- start: 175.423644
+  -- end: 176.191791
+  -- script: let's click on that.
+
+  -- start: 238.12699
+  -- end: 239.177766
+  -- script: let's click it.
+
+  -- start: 90.8592
+  -- end: 92.609516
+  -- script: let's click that.
+
+  -repetition group 7:
+  -- start: 210.911076
+  -- end: 213.001802
+  -- script: this section? no.
+
+  -- start: 167.719168
+  -- end: 169.214302
+  -- script: "more from the section"
+
+=== File Name: p1-science-t3 ===
+  -repetition group 1:
+  -- start: 223.053857
+  -- end: 235.868524
+  -- script: let's...it doesn't help. okay. I don't see.
+
+  -- start: 82.453899
+  -- end: 85.121153
+  -- script: let's go back up and look at
+
+  -- start: 32.290697
+  -- end: 33.249596
+  -- script: let's go down
+
+  -- start: 176.500167
+  -- end: 178.215539
+  -- script: let's click "more".
+
+  -repetition group 2:
+  -- start: 44.229477
+  -- end: 50.682325
+  -- script: background information for astronomy.
+
+  -- start: 67.13289
+  -- end: 69.396925
+  -- script: okay. background information for astronomy.
+
+  -repetition group 3:
+  -- start: 119.53693
+  -- end: 138.555273
+  -- script: okay. um, there is a few different links. don't know any of these are what I'm looking for.
+
+  -- start: 53.435251
+  -- end: 56.641
+  -- script: oh, there is not very many links. okay.
+
+  -repetition group 4:
+  -- start: 149.859195
+  -- end: 156.31071
+  -- script: okay, I'll scroll down.
+
+  -- start: 240.675921
+  -- end: 244.678696
+  -- script: okay, scrolling down and let me try to look for...
+
+  -- start: 205.56436
+  -- end: 210.366744
+  -- script: okay. how can I go back?
+
+=== File Name: p2-science-t1 ===
+  -repetition group 1:
+  -- start: 25.035216
+  -- end: 27.809484
+  -- script: a trip around the sun.
+
+  -- start: 143.031169
+  -- end: 150.156106
+  -- script: So the first one a trip around the sun.
+
+  -repetition group 2:
+  -- start: 30.882524
+  -- end: 36.047846
+  -- script: This is actually pretty easy actually to figure out all of the different available school programs are dated
+
+  -- start: 63.40212
+  -- end: 66.251154
+  -- script: She asked you to check if there's any available school program.
+
+  -repetition group 3:
+  -- start: 52.240686
+  -- end: 56.845896
+  -- script: Another one for February and June and another one for
+
+  -- start: 47.355964
+  -- end: 51.034923
+  -- script: Oh so there's one for February to June.
+
+  -repetition group 4:
+  -- start: 140.77445
+  -- end: 143.031169
+  -- script: because I thought I had this task figured out.
+
+  -- start: 66.251154
+  -- end: 68.907721
+  -- script: So actually this was a pretty easy task to solve.
+
+=== File Name: p2-science-t2 ===
+=== File Name: p2-science-t3 ===
+  -repetition group 1:
+  -- start: 0
+  -- end: 4.974967
+  -- script: So I'm looking for a photo of an early telescope instruction manual.
+
+  -- start: 78.662803
+  -- end: 85.69384
+  -- script: There's no instruction manuals just pictures of old telescopes.
+
+  -- start: 49.753933
+  -- end: 52.587236
+  -- script: but we just want a picture of an old telescope instruction manual.
+
+  -- start: 159.612332
+  -- end: 163.419633
+  -- script: like an obvious picture of a telescope and instructions were included with it
+
+=== File Name: p3-science-t1 ===
+  -repetition group 1:
+  -- start: 103.84508
+  -- end: 105.514056
+  -- script: This virtual program.
+
+  -- start: 18.212129
+  -- end: 19.474117
+  -- script: So, educational program.
+
+  -repetition group 2:
+  -- start: 19.474117
+  -- end: 23.171067
+  -- script: Now here I see school programs.
+
+  -- start: 23.171067
+  -- end: 27.636842
+  -- script: That's the school programs that you want, probably.
+
+  -repetition group 3:
+  -- start: 41.436873
+  -- end: 46.566572
+  -- script: That's grade one, no, grade four to six, no, grade five to seven, no, five to six, no.
+
+  -- start: 82.394763
+  -- end: 85.109376
+  -- script: Four to seven no, grade four to six, no.
+
+  -repetition group 4:
+  -- start: 73.228682
+  -- end: 77.033765
+  -- script: Did it [?] anything?
+
+  -- start: 60.424296
+  -- end: 64.495012
+  -- script: Well, I don't think there's anything for her.
+
+=== File Name: p3-science-t2 ===
+  -repetition group 1:
+  -- start: 60.755311
+  -- end: 65.520481
+  -- script: What's on, Um.
+
+  -- start: 142.843342
+  -- end: 148.351211
+  -- script: Um, no this is [??].
+
+  -repetition group 2:
+  -- start: 110.731575
+  -- end: 115.193648
+  -- script: What are they, will it be able to have, no as what's the presentation.
+
+  -- start: 124.148768
+  -- end: 129.612568
+  -- script: Let's see there is any presentations.
+
+=== File Name: p3-science-t3 ===
+  -repetition group 1:
+  -- start: 239.529911
+  -- end: 243.96029
+  -- script: Um, looks cool. But that's not a...
+
+  -- start: 35.46356
+  -- end: 39.459546
+  -- script: Um...I don't think this is that.
+
+  -repetition group 2:
+  -- start: 155.596592
+  -- end: 157.952892
+  -- script: Um the Zenith telescope.
+
+  -- start: 75.595294
+  -- end: 84.40905
+  -- script: Um...So...telescope, no...
+
+  -repetition group 3:
+  -- start: 100.490395
+  -- end: 102.313801
+  -- script: I try to click a picture.
+
+  -- start: 102.313801
+  -- end: 105.171611
+  -- script: To show there's a picture.
+
+  -repetition group 4:
+  -- start: 146.709854
+  -- end: 148.917541
+  -- script: Oh, here, OK, so which one.
+
+  -- start: 270.180708
+  -- end: 278.938987
+  -- script: Oh this, OK, this one shows things, like how to build it, so.
+
+=== File Name: p4-science-t1 ===
+  -repetition group 1:
+  -- start: 41.787833
+  -- end: 46.682631
+  -- script: any program so um.
+
+  -- start: 46.682631
+  -- end: 48.757106
+  -- script: put all programs in.
+
+=== File Name: p4-science-t2 ===
+  -repetition group 1:
+  -- start: 128.806326
+  -- end: 131.215255
+  -- script: Those all look like they're attractive
+
+  -- start: 115.480781
+  -- end: 117.149791
+  -- script: That sounds like what I need.
+
+  -repetition group 2:
+  -- start: 117.149791
+  -- end: 121.623116
+  -- script: So I open these three tabs or four.
+
+  -- start: 172.755201
+  -- end: 177.9109
+  -- script: so these are the three tabs that I need.
+
+=== File Name: p4-science-t3 ===
+  -repetition group 1:
+  -- start: 0
+  -- end: 3.689831
+  -- script: Instructions for telescopes.
+
+  -- start: 204.714064
+  -- end: 211.600228
+  -- script: 15 refracting telescopes, I don't see instructions, they just like fun facts.
+
+  -- start: 51.563458
+  -- end: 60.54186
+  -- script: So maybe if I type in telescope instructions.
+
+  -- start: 257.185562
+  -- end: 261.98814
+  -- script: But I don't see any instructions for a telescope.
+
+  -- start: 329.86193
+  -- end: 336.365621
+  -- script: These look like instructions for telescope.
+
+  -repetition group 2:
+  -- start: 295.102647
+  -- end: 296.498672
+  -- script: The telescope.
+
+  -- start: 70.484284
+  -- end: 75.334241
+  -- script: Refracting telescope and telescope.
+
+  -repetition group 3:
+  -- start: 200.229284
+  -- end: 204.714064
+  -- script: So I close that tab
+
+  -- start: 261.98814
+  -- end: 266.138076
+  -- script: Close that tab as well.
+
+  -- start: 211.600228
+  -- end: 215.107967
+  -- script: So I close those tabs.
+
+  -repetition group 4:
+  -- start: 291.265532
+  -- end: 295.102647
+  -- script: So I'll simplify my search again.
+
+  -- start: 266.138076
+  -- end: 269.343114
+  -- script: And I go back to the search.
+
+=== File Name: p5-science-t1 ===
+  -repetition group 1:
+  -- start: 59.8753
+  -- end: 65.392086
+  -- script: So I'm just gonna go back and see what else we have.
+
+  -- start: 28.434829
+  -- end: 29.663959
+  -- script: So I'm gonna press more.
+
+=== File Name: p5-science-t2 ===
+  -repetition group 1:
+  -- start: 17.990222
+  -- end: 19.379923
+  -- script: And I'm just gonna continue scrolling down.
+
+  -- start: 80.752435
+  -- end: 83.535643
+  -- script: So I'm just gonna click on this.
+
+=== File Name: p5-science-t3 ===
+  -repetition group 1:
+  -- start: 158.926116
+  -- end: 163.334147
+  -- script: Ok so I don't think this will be helpful.
+
+  -- start: 41.124163
+  -- end: 43.273476
+  -- script: Ok I'm just going to open that too
+
+  -repetition group 2:
+  -- start: 209.840034
+  -- end: 214.347681
+  -- script: Ok I see instructions so I'm assuming that
+
+  -- start: 118.711026
+  -- end: 125.156145
+  -- script: Ok this doesn't really give me - what's it asking for? - um photo instructions.
+
+=== File Name: p6-science-t1 ===
+=== File Name: p6-science-t2 ===
+=== File Name: p6-science-t3 ===
+  -repetition group 1:
+  -- start: 76.817046
+  -- end: 84.868069
+  -- script: um, I'm gonna skim through these again to make sure I'm not missing anything.
+
+  -- start: 300.340757
+  -- end: 306.251171
+  -- script: so I'm gonna go see if there is anything about a telescope.
+
+  -repetition group 2:
+  -- start: 273.000335
+  -- end: 274.637648
+  -- script: I clicked on these ones.
+
+  -- start: 117.256963
+  -- end: 121.521163
+  -- script: I guess it has to be one of these.
+
+=== File Name: p7-science-t1 ===
+=== File Name: p7-science-t2 ===
+=== File Name: p7-science-t3 ===
+  -repetition group 1:
+  -- start: 0
+  -- end: 5.307166
+  -- script: OK, so I need to search for a photo of the instructions for an early  telescope.
+
+  -- start: 31.642552
+  -- end: 44.247772
+  -- script: Let's see if I can find, search for photos and instructions of an early telescope.
+
+=== File Name: p8-science-t1 ===
+  -repetition group 1:
+  -- start: 159.133033
+  -- end: 162.155928
+  -- script: Let's go to the other one.
+
+  -- start: 45.911902
+  -- end: 51.273642
+  -- script: So let's see which one is appropriate.
+
+=== File Name: p8-science-t2 ===
+=== File Name: p8-science-t3 ===
+  -repetition group 1:
+  -- start: 529.604784
+  -- end: 533.883044
+  -- script: So it says the highlights of archival collection.
+
+  -- start: 30.423081
+  -- end: 34.190306
+  -- script: Which gives me collection highlights
+
+  -repetition group 2:
+  -- start: 34.190306
+  -- end: 40.442094
+  -- script: and I'm going to open that in a new page.
+
+  -- start: 174.010119
+  -- end: 181.375207
+  -- script: and let's go into the page.
+
+  -repetition group 3:
+  -- start: 144.767257
+  -- end: 153.01684
+  -- script: Let me search by typing telescope.
+
+  -- start: 401.692847
+  -- end: 403.529128
+  -- script: Drawing of the telescope
+
+  -repetition group 4:
+  -- start: 382.258673
+  -- end: 398.985341
+  -- script: And then the artifact markings gives me some odd, ok. It gives me what is engraved on the telescope but doesn't give me any instructions.
+
+  -- start: 272.062114
+  -- end: 285.225527
+  -- script: And I'm just scrolling through to find some instructions on, on the telescopes.
+
+  -repetition group 5:
+  -- start: 308.430218
+  -- end: 311.844162
+  -- script: Think, think it should be one of these two.
+
+  -- start: 629.064676
+  -- end: 633.962346
+  -- script: So I think one of these two. Okay
+
+  -repetition group 6:
+  -- start: 480.482127
+  -- end: 484.845258
+  -- script: Ok then it says file not found.
+
+  -- start: 489.944867
+  -- end: 496.220088
+  -- script: It's giving a file not found.
+
+=== File Name: p1-remote ===
+  -repetition group 1:
+  -- start: 0
+  -- end: 3.99176
+  -- script: Okay, first, I'm gonna look at the remote
+
+  -- start: 25.782656
+  -- end: 28.371436
+  -- script: okay, I don't know what that's for, so I'm gonna leave it there for now.
+
+  -- start: 442.541374
+  -- end: 444.212214
+  -- script: Okay, I'm gonna press it again.
+
+  -- start: 343.595854
+  -- end: 348.09454
+  -- script: okay. so it says to on the remote, okay,
+
+  -repetition group 2:
+  -- start: 11.999408
+  -- end: 16.893293
+  -- script: um, I look at, oh, there are two sides. okay.
+
+  -- start: 156.476379
+  -- end: 158.522271
+  -- script: oh, there is only one side, okay.
+
+  -repetition group 3:
+  -- start: 16.893293
+  -- end: 18.686374
+  -- script: and what is this sheet for?
+
+  -- start: 158.522271
+  -- end: 168.15481
+  -- script: um, I don't really know what I'm looking for on the sheet.
+
+  -repetition group 4:
+  -- start: 131.515058
+  -- end: 136.577381
+  -- script: I feel look at the code list thing again and see if I can actually even figure this out.
+
+  -- start: 18.686374
+  -- end: 20.4074
+  -- script: code list
+
+  -repetition group 5:
+  -- start: 65.567275
+  -- end: 77.650293
+  -- script: Brand code search. um, codes for brands of devices. It's not as easy as the auto code search, but it can be faster. okay.
+
+  -- start: 208.089979
+  -- end: 221.576258
+  -- script: so auto code search automatically goes through all the codes for the device you try to control. When you find the one that operates your device, you can stop the search and store that code. okay.
+
+  -repetition group 6:
+  -- start: 198.180187
+  -- end: 206.752315
+  -- script: because it says its the easiest method and that's probably the better one for me. okay.
+
+  -- start: 104.27881
+  -- end: 108.378323
+  -- script: okay, I have to choose one.
+
+  -repetition group 7:
+  -- start: 182.298774
+  -- end: 188.926816
+  -- script: but I don't know where all these are made, okay.
+
+  -- start: 371.795055
+  -- end: 373.823729
+  -- script: okay, it's illuminated.
+
+  -- start: 558.107177
+  -- end: 560.221077
+  -- script: okay, I did point it.
+
+  -- start: 564.370476
+  -- end: 567.019301
+  -- script: Okay, I don't know what that means.
+
+  -- start: 422.074197
+  -- end: 425.393797
+  -- script: Okay, stopped flashing.
+
+  -- start: 253.675954
+  -- end: 258.764831
+  -- script: Okay, it's turned on.
+
+  -- start: 440.268436
+  -- end: 442.541374
+  -- script: Okay, this sounds very inefficient.
+
+  -- start: 461.98651
+  -- end: 464.334052
+  -- script: Okay, I'll keep going.
+
+  -- start: 130.050869
+  -- end: 131.515058
+  -- script: okay, I don't what that means.
+
+  -repetition group 8:
+  -- start: 245.43904
+  -- end: 248.816291
+  -- script: Okay, so manually turn on the device you want to control
+
+  -- start: 295.222299
+  -- end: 300.841924
+  -- script: I think that means the device we want to program is the remote. okay.
+
+  -repetition group 9:
+  -- start: 248.816291
+  -- end: 250.523734
+  -- script: okay, where is the on button?
+
+  -- start: 738.775517
+  -- end: 740.880612
+  -- script: okay, let me just hold the power button.
+
+  -repetition group 10:
+  -- start: 713.573731
+  -- end: 720.107279
+  -- script: okay, I'm gonna turn off the DVD player.
+
+  -- start: 250.523734
+  -- end: 253.675954
+  -- script: okay, I'm gonna press the on button on the DVD player.
+
+  -repetition group 11:
+  -- start: 265.579872
+  -- end: 271.058091
+  -- script: oh, cause there is something in the DVD, okay. I get it.
+
+  -- start: 537.268189
+  -- end: 544.139316
+  -- script: oh, on, okay, it's doing something, okay.
+
+  -- start: 409.625772
+  -- end: 414.492875
+  -- script: okay. Something is loading.
+
+  -repetition group 12:
+  -- start: 401.718622
+  -- end: 408.437917
+  -- script: It's flashing. Okay, it's flashing. video stopped. Okay.
+
+  -- start: 586.381785
+  -- end: 591.601388
+  -- script: Okay, so, I think the video is playing.
+
+  -- start: 425.393797
+  -- end: 429.819427
+  -- script: It's making sounds. I'm confused. Okay, now the video is playing again. Okay.
+
+  -repetition group 13:
+  -- start: 646.554167
+  -- end: 660.856764
+  -- script: um, instead with the unit now off, continue to press play every five seconds until the unit turns back on.
+
+  -- start: 673.323083
+  -- end: 692.111718
+  -- script: Instead now with the unit off, continue to press the Play key every five seconds, press the play key every five seconds, until the unit turns back on. hmm.
+
+=== File Name: p2-remote ===
+  -repetition group 1:
+  -- start: 0
+  -- end: 5.092503
+  -- script: So just programming this remote to turn the TV off and on.
+
+  -- start: 628.172948
+  -- end: 629.263984
+  -- script: which is the TV
+
+  -- start: 190.508131
+  -- end: 192.325596
+  -- script: which the TV is already on
+
+  -- start: 546.307338
+  -- end: 549.532938
+  -- script: But all we're really trying to do is get the TV to turn off and on.
+
+  -- start: 590.427286
+  -- end: 592.03805
+  -- script: So I'm pointing it at the TV
+
+  -- start: 369.702333
+  -- end: 372.554013
+  -- script: the TVs on now.
+
+  -repetition group 2:
+  -- start: 120.762899
+  -- end: 125.788049
+  -- script: The Manual Code Search lets you manually go through all the codes for the device you're trying to control.
+
+  -- start: 93.853651
+  -- end: 97.956082
+  -- script: It's not as easy as the auto code search, but it can be faster.
+
+  -- start: 134.092105
+  -- end: 138.894901
+  -- script: The auto codes search goes automatically through all the codes for the device you're trying to control
+
+  -- start: 55.995513
+  -- end: 63.202451
+  -- script: The Auto Code Search goes automatically through all the codes for the device you're trying to control.
+
+  -repetition group 3:
+  -- start: 175.784269
+  -- end: 180.640449
+  -- script: Press and hold the device key you want to program.
+
+  -- start: 194.779453
+  -- end: 200.715217
+  -- script: manually press and hold the device key you want to program which is the power button.
+
+  -- start: 566.095056
+  -- end: 568.511921
+  -- script: press and hold the device key you want to program
+
+  -- start: 260.961843
+  -- end: 263.297235
+  -- script: Press and hold the device key you want to program.
+
+  -- start: 377.916192
+  -- end: 380.785387
+  -- script: Press and hold the device key you want to program.
+
+  -repetition group 4:
+  -- start: 186.863179
+  -- end: 190.508131
+  -- script: it tells me to manually turn on the device you want to control
+
+  -- start: 654.197504
+  -- end: 656.547856
+  -- script: Did your device turn off.
+
+  -- start: 308.592374
+  -- end: 312.953476
+  -- script: Did your device turn off?
+
+  -- start: 313.96908
+  -- end: 316.276961
+  -- script: the device did not turn off
+
+  -- start: 374.530648
+  -- end: 377.916192
+  -- script: manually turn on the device you want to control.
+
+  -repetition group 5:
+  -- start: 390.547951
+  -- end: 400.651639
+  -- script: And now while you're holding down the device key use your other hand to press and hold the remotes power key at the same time.
+
+  -- start: 414.541567
+  -- end: 419.276942
+  -- script: while you're holding down the device you use your other hand to press and hold the remotes power key at the same time.
+
+  -- start: 201.471927
+  -- end: 209.541752
+  -- script: while you're holding down the device key, use your other hand to press and hold the remotes power key at the same time
+
+  -- start: 572.810943
+  -- end: 579.703435
+  -- script: while you're holding down the device key your other hand use your other hand to press and hold remote's POWER key at the same time.
+
+  -- start: 266.645009
+  -- end: 270.44191
+  -- script: While you're holding down the device key, use your other hand to press and hold the remote's POWER key at the same time.
+
+  -- start: 613.936481
+  -- end: 618.056898
+  -- script: While you're holding down the device key, use your other hand to press and hold the remote's POWER key at the same time.
+
+  -repetition group 6:
+  -- start: 387.327693
+  -- end: 390.547951
+  -- script: so I'm holding the power button.
+
+  -- start: 538.026626
+  -- end: 541.148798
+  -- script: because the power button is illuminated like it said it would be.
+
+  -- start: 431.594232
+  -- end: 435.443786
+  -- script: So I'm holding the power button
+
+  -- start: 209.541752
+  -- end: 211.98486
+  -- script: the power button is what I want to control so
+
+  -- start: 495.304978
+  -- end: 504.83965
+  -- script: The power button is still on which it said it would happen
+
+  -repetition group 7:
+  -- start: 428.347091
+  -- end: 431.594232
+  -- script: other than the TV button which I tried the first time and that didn't do anything.
+
+  -- start: 211.98486
+  -- end: 219.332108
+  -- script: Oh maybe for TV button I have to hold at the same time.
+
+  -repetition group 8:
+  -- start: 569.45588
+  -- end: 571.461818
+  -- script: the power key illuminates
+
+  -- start: 571.461818
+  -- end: 572.810943
+  -- script: the power keys illuminated right now
+
+  -- start: 580.876371
+  -- end: 584.957345
+  -- script: So I am going to press the TV key and press the Power key at the same time.
+
+  -- start: 584.957345
+  -- end: 590.427286
+  -- script: Wait until the power comes on and stays on then release both keys.
+
+  -- start: 592.03805
+  -- end: 594.270078
+  -- script: I'm holding down the TV key and the power key
+
+  -- start: 618.056898
+  -- end: 624.032372
+  -- script: Wait until the POWER key comes on, release both keys.
+
+  -- start: 642.628819
+  -- end: 645.17642
+  -- script: The power key is flashing
+
+  -- start: 219.332108
+  -- end: 223.205104
+  -- script: Wait until the POWER key comes on and stays on.
+
+  -- start: 245.405083
+  -- end: 250.824578
+  -- script: but it's also telling me to hold the power key in conjunction to the key that I want to program, it just confusing.
+
+  -- start: 250.824578
+  -- end: 255.425395
+  -- script: But we're going to try pressing key and excuse me TV and power at the same time.
+
+  -- start: 265.115447
+  -- end: 266.645009
+  -- script: The POWER key illuminates.
+
+  -- start: 270.44191
+  -- end: 272.055713
+  -- script: The POWER key turns off.
+
+  -- start: 272.055713
+  -- end: 274.795275
+  -- script: Wait until the POWER key comes on and stays on.
+
+  -- start: 281.480646
+  -- end: 286.205296
+  -- script: pressing the power key to see if it turns the TV on.
+
+  -- start: 293.776931
+  -- end: 297.474742
+  -- script: Wait until the POWER key comes on and stays on.
+
+  -- start: 382.742761
+  -- end: 387.327693
+  -- script: So I want to I want to program the power key
+
+  -- start: 400.651639
+  -- end: 403.478431
+  -- script: So yeah that is a little confusing because the power key is what I want to program.
+
+  -- start: 403.478431
+  -- end: 410.069795
+  -- script: Maybe you just have to press the Power key by itself?
+
+  -- start: 411.78401
+  -- end: 414.541567
+  -- script: Wait until the power key comes on and stays on
+
+  -- start: 419.276942
+  -- end: 422.959048
+  -- script: OK, so I'm holding down the power key.
+
+  -- start: 435.443786
+  -- end: 443.919797
+  -- script: and now it tells me wait until the power key comes on and stays on and release both keys.
+
+  -- start: 462.500517
+  -- end: 465.868814
+  -- script: and then the power keys are illuminated
+
+  -- start: 465.868814
+  -- end: 468.083784
+  -- script: and now I'm going to hold down the power key
+
+  -- start: 470.789897
+  -- end: 473.632913
+  -- script: Wait until the power comes on and stays on then release both keys.
+
+  -- start: 483.233156
+  -- end: 487.067239
+  -- script: OK. So when released both keys
+
+  -repetition group 9:
+  -- start: 223.205104
+  -- end: 224.40453
+  -- script: Then release both keys.
+
+  -- start: 297.474742
+  -- end: 298.493651
+  -- script: Then release both keys.
+
+  -- start: 274.795275
+  -- end: 275.848487
+  -- script: Then release both keys.
+
+  -repetition group 10:
+  -- start: 624.729054
+  -- end: 628.172948
+  -- script: Point the remote directly at the front panel of the device you want to control.
+
+  -- start: 298.493651
+  -- end: 301.639911
+  -- script: Point the remote directly at the front panel of the device you want to control.
+
+  -- start: 224.40453
+  -- end: 229.862159
+  -- script: Point the remote directly at the front panel of the device you want to control.
+
+  -- start: 473.632913
+  -- end: 477.849279
+  -- script: pointed directly at the front panel of the device you want to control
+
+  -- start: 505.915466
+  -- end: 510.346308
+  -- script: Point the remote directly at the front panel of the device you want to control.
+
+  -repetition group 11:
+  -- start: 400.651639
+  -- end: 403.478431
+  -- script: So yeah that is a little confusing because the power key is what I want to program.
+
+  -- start: 403.478431
+  -- end: 410.069795
+  -- script: Maybe you just have to press the Power key by itself?
+
+  -- start: 419.276942
+  -- end: 422.959048
+  -- script: OK, so I'm holding down the power key.
+
+  -- start: 462.500517
+  -- end: 465.868814
+  -- script: and then the power keys are illuminated
+
+  -- start: 465.868814
+  -- end: 468.083784
+  -- script: and now I'm going to hold down the power key
+
+  -- start: 569.45588
+  -- end: 571.461818
+  -- script: the power key illuminates
+
+  -- start: 571.461818
+  -- end: 572.810943
+  -- script: the power keys illuminated right now
+
+  -- start: 245.405083
+  -- end: 250.824578
+  -- script: but it's also telling me to hold the power key in conjunction to the key that I want to program, it just confusing.
+
+  -- start: 592.03805
+  -- end: 594.270078
+  -- script: I'm holding down the TV key and the power key
+
+  -- start: 270.44191
+  -- end: 272.055713
+  -- script: The POWER key turns off.
+
+  -- start: 382.742761
+  -- end: 387.327693
+  -- script: So I want to I want to program the power key
+
+  -repetition group 12:
+  -- start: 580.876371
+  -- end: 584.957345
+  -- script: So I am going to press the TV key and press the Power key at the same time.
+
+  -- start: 250.824578
+  -- end: 255.425395
+  -- script: But we're going to try pressing key and excuse me TV and power at the same time.
+
+  -repetition group 13:
+  -- start: 255.425395
+  -- end: 260.961843
+  -- script: And I'm just reading over the instructions again
+
+  -- start: 608.222107
+  -- end: 613.936481
+  -- script: I'm just reading over these instructions now.
+
+  -repetition group 14:
+  -- start: 281.480646
+  -- end: 286.205296
+  -- script: pressing the power key to see if it turns the TV on.
+
+  -- start: 403.478431
+  -- end: 410.069795
+  -- script: Maybe you just have to press the Power key by itself?
+
+  -- start: 642.628819
+  -- end: 645.17642
+  -- script: The power key is flashing
+
+  -- start: 462.500517
+  -- end: 465.868814
+  -- script: and then the power keys are illuminated
+
+  -- start: 465.868814
+  -- end: 468.083784
+  -- script: and now I'm going to hold down the power key
+
+  -- start: 569.45588
+  -- end: 571.461818
+  -- script: the power key illuminates
+
+  -- start: 571.461818
+  -- end: 572.810943
+  -- script: the power keys illuminated right now
+
+  -- start: 265.115447
+  -- end: 266.645009
+  -- script: The POWER key illuminates.
+
+  -- start: 270.44191
+  -- end: 272.055713
+  -- script: The POWER key turns off.
+
+  -repetition group 15:
+  -- start: 301.639911
+  -- end: 305.57703
+  -- script: Press PLAY on the remote and wait 5 seconds.
+
+  -- start: 510.346308
+  -- end: 512.397
+  -- script: Press PLAY on the remote and wait 5 seconds.
+
+  -- start: 629.263984
+  -- end: 634.739768
+  -- script: Press PLAY on the remote and wait 5 seconds
+
+  -- start: 477.849279
+  -- end: 480.155379
+  -- script: Press PLAY on the remote and wait 5 seconds.
+
+  -repetition group 16:
+  -- start: 305.57703
+  -- end: 308.592374
+  -- script: The remote is testing a batch of 10 codes on your device.
+
+  -- start: 645.17642
+  -- end: 648.895686
+  -- script: The remote is testing a batch of 10 codes on your device.
+
+  -- start: 512.397
+  -- end: 514.943901
+  -- script: The remote is testing a batch of 10 codes on your device.
+
+=== File Name: p3-remote ===
+  -repetition group 1:
+  -- start: 147.257469
+  -- end: 151.196959
+  -- script: OK, manually turn on the device.
+
+  -- start: 332.74401
+  -- end: 346.173173
+  -- script: OK, did the device turn off? No.
+
+  -- start: 23.887865
+  -- end: 28.450242
+  -- script: OK, so manually turn on the device you want to control.
+
+  -- start: 251.227887
+  -- end: 255.863765
+  -- script: OK, point remote directly at the front panel of the device you want to control.
+
+  -repetition group 2:
+  -- start: 453.396972
+  -- end: 458.546899
+  -- script: Oh, how about [hard to get it], OK.
+
+  -- start: 28.450242
+  -- end: 31.365108
+  -- script: Oh yeah, OK it's on.
+
+  -repetition group 3:
+  -- start: 151.196959
+  -- end: 168.318298
+  -- script: OK, press and hold the device key you wanna program.
+
+  -- start: 88.612111
+  -- end: 91.79988
+  -- script: OK, press and hold the device key you want to program.
+
+  -- start: 132.092255
+  -- end: 135.993271
+  -- script: OK, press and hold the device key you wanna program.
+
+  -- start: 31.365108
+  -- end: 36.893054
+  -- script: Press and hold the device key you want to program
+
+  -repetition group 4:
+  -- start: 36.893054
+  -- end: 40.658269
+  -- script: So DVD-VCR.
+
+  -- start: 237.432365
+  -- end: 240.018672
+  -- script: So I'm pressing DVD-VCR.
+
+  -repetition group 5:
+  -- start: 40.658269
+  -- end: 45.954322
+  -- script: While you're holding down the device key, use your other hand to press and hold the remote's power key at the same time.
+
+  -- start: 172.230977
+  -- end: 178.661062
+  -- script: Now, when you holding down the device key use your hand to press and hold the power key at the same time.
+
+  -- start: 91.79988
+  -- end: 101.530809
+  -- script: Power key illuminates when you holding on the device key you use the other hand to hold through the power key at the same time, the power key turns off.
+
+  -- start: 499.189702
+  -- end: 504.310574
+  -- script: While you're holding down use your other hand to press and hold the remote's POWER key at the same time.
+
+  -repetition group 6:
+  -- start: 142.710369
+  -- end: 147.257469
+  -- script: OK, so the power key is already illuminated.
+
+  -- start: 299.574707
+  -- end: 302.544041
+  -- script: Now press the power key again.
+
+  -- start: 302.544041
+  -- end: 305.490675
+  -- script: I don't know the power key is being anything?
+
+  -- start: 305.490675
+  -- end: 309.170001
+  -- script: Pressing the power key I guess it went off for a second.
+
+  -- start: 178.661062
+  -- end: 180.313371
+  -- script: The power key should turn off.
+
+  -- start: 504.310574
+  -- end: 506.040016
+  -- script: The POWER key turns off.
+
+  -- start: 45.954322
+  -- end: 47.757783
+  -- script: The power key turns off.
+
+  -repetition group 7:
+  -- start: 315.273786
+  -- end: 317.224374
+  -- script: Then, OK, it stays on.
+
+  -- start: 54.920012
+  -- end: 56.600923
+  -- script: No? It's not done? OK.
+
+  -- start: 226.529526
+  -- end: 230.529247
+  -- script: OK, [murmuring].
+
+  -- start: 101.530809
+  -- end: 107.157669
+  -- script: OK, was it turn off ? I don't understand.
+
+  -- start: 270.31244
+  -- end: 274.449005
+  -- script: OK, let's try this again.
+
+  -- start: 135.993271
+  -- end: 138.314409
+  -- script: OK, maybe.
+
+  -- start: 138.314409
+  -- end: 142.710369
+  -- script: No, OK, I'll try this again.
+
+  -repetition group 8:
+  -- start: 75.091162
+  -- end: 80.08725
+  -- script: Oh OK wait, until the power key comes on and stays on then release both keys.
+
+  -- start: 310.884677
+  -- end: 315.273786
+  -- script: Wait until the power key comes on and stays on.
+
+  -repetition group 9:
+  -- start: 470.478441
+  -- end: 476.838338
+  -- script: Oh, n-o-3-b, no...
+
+  -- start: 123.795182
+  -- end: 126.165482
+  -- script: Oh, no did not turn off.
+
+  -- start: 572.157943
+  -- end: 578.196087
+  -- script: Oh I thought I did, I'm not sure
+
+  -- start: 538.073016
+  -- end: 540.241058
+  -- script: Oh! There we go~ did it work?
+
+  -repetition group 10:
+  -- start: 309.170001
+  -- end: 310.884677
+  -- script: But [can't get it] for longer.
+
+  -- start: 182.433179
+  -- end: 186.309352
+  -- script: [can't get it] turns off.
+
+  -repetition group 11:
+  -- start: 202.832126
+  -- end: 205.039813
+  -- script: So find the code list.
+
+  -- start: 205.039813
+  -- end: 208.576814
+  -- script: Um, I haven't found the code list.
+
+  -repetition group 12:
+  -- start: 240.018672
+  -- end: 241.579097
+  -- script: And I'm pressing power.
+
+  -- start: 532.00095
+  -- end: 538.073016
+  -- script: Point the remote directly press POWER.
+
+  -repetition group 13:
+  -- start: 346.173173
+  -- end: 347.951099
+  -- script: Press PLAY again.
+
+  -- start: 255.863765
+  -- end: 257.165503
+  -- script: Press PLAY.
+
+  -repetition group 14:
+  -- start: 352.610316
+  -- end: 358.261693
+  -- script: One, two, three, four, five...[murmuring]
+
+  -- start: 358.261693
+  -- end: 378.176028
+  -- script: One, two, three, four, five. One, two, three, four, five. One, two, three, four, five.
+
+  -- start: 378.176028
+  -- end: 385.080587
+  -- script: They ain't help any. OK, one, two, three, four, five...
+
+  -- start: 392.247526
+  -- end: 403.852655
+  -- script: Three, four, five. One, two, three, four, five.
+
+  -- start: 403.852655
+  -- end: 411.036931
+  -- script: One, two, three, four, five, wait...
+
+  -- start: 432.105461
+  -- end: 438.811189
+  -- script: One, two, three, four, five.
+
+  -- start: 442.800027
+  -- end: 448.343036
+  -- script: [one, two, three off?] OK.
+
+=== File Name: p4-remote ===
+  -repetition group 1:
+  -- start: 142.204306
+  -- end: 146.210658
+  -- script: pressing and hold the device key you want
+
+  -- start: 151.881919
+  -- end: 154.106754
+  -- script: while you're holding down the device key.
+
+  -repetition group 2:
+  -- start: 274.065775
+  -- end: 279.186974
+  -- script: Wait until the POWER key comes on then release both keys.
+
+  -- start: 346.839992
+  -- end: 355.088735
+  -- script: and it says the should have turned off wait until the power key comes on and stays on and release both keys.
+
+  -- start: 159.894996
+  -- end: 164.31092
+  -- script: wait until the power key comes on
+
+  -repetition group 3:
+  -- start: 433.669996
+  -- end: 436.484006
+  -- script: Did your device turn off?
+
+  -- start: 179.647332
+  -- end: 182.884623
+  -- script: The device turn off.
+
+  -repetition group 4:
+  -- start: 198.571983
+  -- end: 205.039227
+  -- script: and scan that maybe find good places brand and brands code
+
+  -- start: 205.039227
+  -- end: 208.995835
+  -- script: as a workaround for brand codes.
+
+  -- start: 261.54209
+  -- end: 267.012365
+  -- script: So I'll go through brand code
+
+  -repetition group 5:
+  -- start: 416.79216
+  -- end: 424.23317
+  -- script: One two, one two, press it again.
+
+  -- start: 389.793029
+  -- end: 399.425382
+  -- script: one two.
+
+=== File Name: p5-remote ===
+  -repetition group 1:
+  -- start: 117.248392
+  -- end: 119.122976
+  -- script: Okay. So now I see that it is on.
+
+  -- start: 229.829901
+  -- end: 232.0257
+  -- script: Okay, and I see that coming on.
+
+  -- start: 125.988593
+  -- end: 127.900993
+  -- script: Okay so I'm going to press.
+
+  -repetition group 2:
+  -- start: 216.748613
+  -- end: 218.595606
+  -- script: And the power key turns off. Okay
+
+  -- start: 295.898078
+  -- end: 311.254936
+  -- script: Okay so if you press play, it plays. If you press stop, it stops. If you press power it turns off. And then if you press power again it turns on. So I think we're good.
+
+  -- start: 232.0257
+  -- end: 236.067316
+  -- script: And I'm going to hold the power key. Okay
+
+  -repetition group 3:
+  -- start: 288.244489
+  -- end: 295.898078
+  -- script: You're done, you're done programming this device, press reverse again. Um if it didn't turn on but it did.
+
+  -- start: 269.14564
+  -- end: 276.084191
+  -- script: Um once your device turns off, press the reverse key
+
+=== File Name: p6-remote ===
+  -repetition group 1:
+  -- start: 39.415527
+  -- end: 46.728712
+  -- script: and then right below that,  I think it's separated into different ways you can program your remote, which is good.
+
+  -- start: 9.36912
+  -- end: 12.694078
+  -- script: and conveniently it says program your remote.
+
+  -repetition group 2:
+  -- start: 389.874325
+  -- end: 391.250482
+  -- script: I'm gonna try this last step.
+
+  -- start: 12.694078
+  -- end: 15.322477
+  -- script: I'm just gonna read this step.
+
+  -repetition group 3:
+  -- start: 201.234545
+  -- end: 205.233089
+  -- script: I think I'm gonna try again.
+
+  -- start: 380.135674
+  -- end: 382.545292
+  -- script: I'm gonna test if it turns off.
+
+  -- start: 25.629252
+  -- end: 28.167659
+  -- script: so I'm just gonna.
+
+  -- start: 563.480756
+  -- end: 572.353021
+  -- script: um, just gonna wait for it to stop being illuminated
+
+  -- start: 440.696391
+  -- end: 443.26868
+  -- script: I'm gonna turn it on again.
+
+  -- start: 283.242289
+  -- end: 286.064734
+  -- script: so I'm gonna do that.
+
+  -- start: 494.723158
+  -- end: 499.798997
+  -- script: I'm gonna click on manual.
+
+  -repetition group 4:
+  -- start: 105.881502
+  -- end: 111.363641
+  -- script: I'm looking at the thing now.
+
+  -- start: 111.363641
+  -- end: 113.402628
+  -- script: It's a DVD thing.
+
+  -- start: 361.554878
+  -- end: 367.892841
+  -- script: so I just have to see things work.
+
+  -repetition group 5:
+  -- start: 522.498192
+  -- end: 525.613705
+  -- script: oh, now it's not turning off the device. Okay.
+
+  -- start: 113.402628
+  -- end: 117.835474
+  -- script: Okay, so, manually turn on the device you want to control.
+
+  -repetition group 6:
+  -- start: 535.259111
+  -- end: 548.596443
+  -- script: waiting for the power button to turn off.
+
+  -- start: 778.394535
+  -- end: 787.527856
+  -- script: I'm just holding the power button see if that'll do anything.
+
+  -- start: 556.600854
+  -- end: 563.480756
+  -- script: is that power button still lit up? so I don't know what that's about.
+
+  -- start: 117.835474
+  -- end: 119.745416
+  -- script: Press the power button
+
+  -- start: 457.265746
+  -- end: 464.170975
+  -- script: I'm just waiting for the power button on the remote to turn off and turn back on.
+
+  -- start: 499.798997
+  -- end: 507.61607
+  -- script: so the power button is blinking now.
+
+  -repetition group 7:
+  -- start: 137.20763
+  -- end: 142.480639
+  -- script: it says press and hold the device key you want to program.
+
+  -- start: 601.962047
+  -- end: 615.806439
+  -- script: press and hold the device key, waiting until it loads.
+
+  -- start: 445.057057
+  -- end: 448.002061
+  -- script: press and hold the device key you want to program.
+
+  -- start: 123.252169
+  -- end: 128.407448
+  -- script: and it says press and hold the device key you want to program.
+
+  -repetition group 8:
+  -- start: 529.17523
+  -- end: 535.259111
+  -- script: I'm pressing the DVD R VCR key and power button.
+
+  -- start: 145.261213
+  -- end: 155.44048
+  -- script: oh, I thought they meant the power key. But there is apparently a different key on here says DVD VCR.
+
+  -- start: 205.233089
+  -- end: 209.525903
+  -- script: so I'm pressing the DVD VCR and the power key.
+
+  -- start: 169.749866
+  -- end: 175.634443
+  -- script: so I'm holding down the power key and DVD VCR key.
+
+  -repetition group 9:
+  -- start: 175.634443
+  -- end: 178.082081
+  -- script: nothing is happening.
+
+  -- start: 296.797201
+  -- end: 302.874228
+  -- script: and nothing is happening
+
+  -- start: 411.137735
+  -- end: 416.911607
+  -- script: Nothing is working.
+
+  -- start: 323.629376
+  -- end: 326.19785
+  -- script: But nothing is happening.
+
+  -repetition group 10:
+  -- start: 178.082081
+  -- end: 181.640069
+  -- script: it says the power key is supposed to turn off, but it's not.
+
+  -- start: 188.674961
+  -- end: 198.112153
+  -- script: and then hold, what, it turned. The power key turned off without me pressing it.
+
+  -- start: 726.045209
+  -- end: 729.928967
+  -- script: The power key is not turning off.
+
+  -repetition group 11:
+  -- start: 251.096999
+  -- end: 254.178434
+  -- script: so it says I can go the next step.
+
+  -- start: 736.939612
+  -- end: 742.06239
+  -- script: all of them say that I need to this step.
+
+  -repetition group 12:
+  -- start: 293.766651
+  -- end: 296.797201
+  -- script: maybe I have to move it closer to the device.
+
+  -- start: 758.195289
+  -- end: 778.394535
+  -- script: I'm just turning off the device manually and going through the manual again.
+
+  -- start: 694.516633
+  -- end: 696.880179
+  -- script: says manually turn on the device you want to control
+
+  -repetition group 13:
+  -- start: 347.382713
+  -- end: 354.076665
+  -- script: but I don't think I should have to read that, cause it's not bold or anything. so it doesn't seem important.
+
+  -- start: 512.587656
+  -- end: 522.498192
+  -- script: reading the manual again to see if there is anything I can do.
+
+  -repetition group 14:
+  -- start: 593.282393
+  -- end: 601.962047
+  -- script: I'm gonna turn on the device manually again.
+
+  -- start: 548.596443
+  -- end: 556.600854
+  -- script: I'm gonna turn off the device and see if, uh,
+
+  -repetition group 15:
+  -- start: 704.839949
+  -- end: 711.921545
+  -- script: There are a bunch of numbers on here. so I guess I have to try that too.
+
+  -- start: 686.121032
+  -- end: 691.51671
+  -- script: I think it's what it says, and there are a bunch of numbers on here.
+
+  -repetition group 16:
+  -- start: 849.643959
+  -- end: 860.425855
+  -- script: I'm trying to press the device key again and power button.
+
+  -- start: 720.368983
+  -- end: 726.045209
+  -- script: so I'm holding the device key and the power button.
+
+  -repetition group 17:
+  -- start: 794.583588
+  -- end: 806.827279
+  -- script: I'm gonna try the brand code search again.
+
+  -- start: 862.119301
+  -- end: 868.757387
+  -- script: I'm gonna try manual code search and see if I have to deal with this.
+
+=== File Name: p7-remote ===
+  -repetition group 1:
+  -- start: 45.912878
+  -- end: 50.715725
+  -- script: So let's try auto code search first.
+
+  -- start: 39.81449
+  -- end: 45.912878
+  -- script: And manual code search let you manually go through all the codes for the device you're trying to control.
+
+  -repetition group 2:
+  -- start: 496.224206
+  -- end: 507.013463
+  -- script: I turn the DVD player back on to see if it's programmed.
+
+  -- start: 63.474364
+  -- end: 73.59437
+  -- script: First, I'd turn on the DVD player.
+
+  -repetition group 3:
+  -- start: 394.025612
+  -- end: 400.018989
+  -- script: So press and hold the device key you want to program.
+
+  -- start: 73.59437
+  -- end: 83.88466
+  -- script: Then I press and hold the device key you want to program.
+
+  -- start: 83.88466
+  -- end: 87.568309
+  -- script: Press and hold the device key you want to program.
+
+  -- start: 87.568309
+  -- end: 89.739266
+  -- script: What's the device key?
+
+  -repetition group 4:
+  -- start: 114.377946
+  -- end: 121.845393
+  -- script: Wait until the POWER key comes on and stays on, then release both keys.
+
+  -- start: 407.362595
+  -- end: 416.274495
+  -- script: While you holding down press the POWER key wait until it comes on and stays on, then release the keys.
+
+  -repetition group 5:
+  -- start: 126.9692
+  -- end: 130.39684
+  -- script: On the remote and wait five seconds.
+
+  -- start: 136.82912
+  -- end: 141.200154
+  -- script: Wait five seconds.
+
+  -repetition group 6:
+  -- start: 472.096732
+  -- end: 478.076185
+  -- script: Did your device turn off?
+
+  -- start: 141.200154
+  -- end: 152.798033
+  -- script: The device did not turn...
+
+  -repetition group 7:
+  -- start: 164.72447
+  -- end: 171.067269
+  -- script: OK, so now, it turns off.
+
+  -- start: 257.133404
+  -- end: 261.376137
+  -- script: OK, now it's back on.
+
+  -repetition group 8:
+  -- start: 243.38251
+  -- end: 246.946316
+  -- script: Did your device turn on? no, then press the REVERSE again.
+
+  -- start: 195.465235
+  -- end: 197.842256
+  -- script: Did your device turn on?
+
+  -repetition group 9:
+  -- start: 485.956256
+  -- end: 490.974044
+  -- script: Then press the stop key to store the code.
+
+  -- start: 197.842256
+  -- end: 205.00225
+  -- script: Press the STOP key you're done, you've programmed this, no, REVERSE again, the remote tests the next code in the batch.
+
+  -repetition group 10:
+  -- start: 350.718581
+  -- end: 354.087664
+  -- script: Accompanying code list?
+
+  -- start: 354.087664
+  -- end: 361.222371
+  -- script: Accompanying code list...which I found..
+
+=== File Name: p8-remote ===
+  -repetition group 1:
+  -- start: 68.067855
+  -- end: 71.757743
+  -- script: So I guess I have a code for this Samsung device.
+
+  -- start: 206.245218
+  -- end: 210.178126
+  -- script: Goes automatically through all the codes for the device for the device you're trying to control.
+
+  -- start: 81.105413
+  -- end: 84.917786
+  -- script: In manual code, lets you manually go through all codes for the device you're trying to control.
+
+  -- start: 165.225991
+  -- end: 170.498247
+  -- script: Manually turn on the device you want to control and find the code list.
+
+  -repetition group 2:
+  -- start: 71.757743
+  -- end: 76.419183
+  -- script: So maybe I'll go to the direct code entry
+
+  -- start: 85.899846
+  -- end: 90.305338
+  -- script: Maybe I'll go to the direct control, direct code entry.
+
+  -repetition group 3:
+  -- start: 102.530097
+  -- end: 104.715248
+  -- script: Let's go through direct code.
+
+  -- start: 185.372405
+  -- end: 188.389873
+  -- script: I guess that's, I guess we don't have the code.
+
+  -- start: 188.389873
+  -- end: 190.81604
+  -- script: So direct code is not possible.
+
+  -repetition group 4:
+  -- start: 144.514873
+  -- end: 149.243838
+  -- script: Ok, let's switch on the...
+
+  -- start: 412.209235
+  -- end: 412.358064
+  -- script: Ok.
+
+  -repetition group 5:
+  -- start: 150.751052
+  -- end: 151.368246
+  -- script: Oh.
+
+  -- start: 482.001987
+  -- end: 485.010772
+  -- script: Oh I guess, I guess this is it
+
+  -- start: 691.751033
+  -- end: 697.018064
+  -- script: Oh. It's switched off so I guess I made it.
+
+  -repetition group 6:
+  -- start: 203.027491
+  -- end: 206.245218
+  -- script: So maybe go to the auto code search.
+
+  -- start: 271.039162
+  -- end: 274.360729
+  -- script: So I'm just going through the manual, manual code search.
+
+  -- start: 313.099413
+  -- end: 315.955643
+  -- script: So let's go to the auto code search.
+
+  -repetition group 7:
+  -- start: 335.279933
+  -- end: 346.480984
+  -- script: Um power key illuminates while you're holding down the device key. Use your other hand to press or hold the remotes power key at the same time. The power key turns off.
+
+  -- start: 509.68572
+  -- end: 520.328469
+  -- script: It says while you're holding down the device key, use your other hand to press and hold the remote's power key at the same time. The power key turns off.
+
+  -- start: 352.482332
+  -- end: 363.691848
+  -- script: So I'm just trying to hold on the power key and remote at the same time.
+
+  -- start: 374.031988
+  -- end: 378.963798
+  -- script: Use the other hand to press and hold the remote's power key at the same time.
+
+  -- start: 581.97972
+  -- end: 594.751403
+  -- script: While you're holding down the device key, use your other hand to press and hold the remote's power key at the same time. And the power key turns off.
+
+  -- start: 289.991469
+  -- end: 305.19896
+  -- script: So press and hold the device key you want to program. The power key illuminates while you're holding down the device key. Use your other hand to press and hold the remote's power key at the same time. The power key turns off.
+
+  -- start: 456.095062
+  -- end: 468.174893
+  -- script: Press and hold the key you want to program. The power key illuminates. While you're holding down the device key, use your other hand to press and hold the remote's power key at the same time. The power key turns off.
+
+  -- start: 641.102371
+  -- end: 644.609323
+  -- script: Hold the remote's power key at the same time.
+
+  -- start: 470.239718
+  -- end: 475.645653
+  -- script: Use your other hand to press the, press and hold the remote's power key at the same time.
+
+  -- start: 648.26251
+  -- end: 651.511408
+  -- script: It says hold the remote's power key at the same time
+
+  -repetition group 8:
+  -- start: 557.141707
+  -- end: 565.578435
+  -- script: To program this remote, manually turn on the device you want to control. Press and hold the device key you want to program.
+
+  -- start: 323.269938
+  -- end: 330.174158
+  -- script: Manually switch on the device to control and press and hold the device key.
+
+  -repetition group 9:
+  -- start: 505.161413
+  -- end: 509.68572
+  -- script: I'm just pressing the power key like it says.
+
+  -- start: 524.598646
+  -- end: 528.543829
+  -- script: Wait until the power key turns on and stays on. Then release both keys.
+
+  -- start: 388.199047
+  -- end: 393.734002
+  -- script: Wait until the power key comes on and stays on.
+
+  -- start: 570.341892
+  -- end: 572.918742
+  -- script: Power key.
+
+  -- start: 416.207579
+  -- end: 421.311233
+  -- script: Wait until the power key comes on and stays on, then release both keys. Stays on. Okay.
+
+  -- start: 596.88829
+  -- end: 602.784133
+  -- script: Okay. And wait until the power key comes on and stays on. Then release the both keys. Okay.
+
+  -- start: 611.679751
+  -- end: 623.298408
+  -- script: And wait until this illuminating um power key goes off.
+
+  -- start: 623.298408
+  -- end: 629.216661
+  -- script: I mean the illuminating power key turns off.
+
+  -- start: 631.739727
+  -- end: 637.080304
+  -- script: So it says, the third point says wait until the power key comes and, comes on and stays on.
+
+  -- start: 637.080304
+  -- end: 641.102371
+  -- script: Before that, we have to wait until the power key is turned off.
+
+  -- start: 485.010772
+  -- end: 490.928856
+  -- script: And wait until the power key comes on and stays on. Then release both keys.
+
+  -repetition group 10:
+  -- start: 637.080304
+  -- end: 641.102371
+  -- script: Before that, we have to wait until the power key is turned off.
+
+  -- start: 505.161413
+  -- end: 509.68572
+  -- script: I'm just pressing the power key like it says.
+
+  -- start: 623.298408
+  -- end: 629.216661
+  -- script: I mean the illuminating power key turns off.
+
+  -- start: 570.341892
+  -- end: 572.918742
+  -- script: Power key.
+
