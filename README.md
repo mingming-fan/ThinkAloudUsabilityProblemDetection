@@ -1,6 +1,6 @@
 # ThinkAloudUsabilityProblemDetection
 
-Some explanation on evaluation files and how to use them:
+## Explanation on evaluation files and how to use them:
 
 eval_tenFoldCross.py performs ten-fold cross valiation on the whole data set, specify a model name in order to run it, a model name has to be from one of **'rf' (random forest)** or **'svm' (support vector machine)** i.e.
 
